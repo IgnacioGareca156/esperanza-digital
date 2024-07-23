@@ -95,10 +95,10 @@ const theme = createTheme({
   palette: {
     mode: 'light',
     primary: {
-      main: '#83d3d9',
+      main: '#3d5895',
     },
     secondary: {
-      main: '#e60000',
+      main: '#cbe6f5',
     },
     error: {
       main: '#f30000',
